@@ -1,6 +1,7 @@
 {
   "name": "vux-nuxt",
   "version": "1.0.0",
+  "author":"zhengshengchen",
   "license": "MIT",
   "repository": {
     "type": "git",
