@@ -1,12 +1,12 @@
 {
-  "name": "example-with-vux",
+  "name": "vux-nuxt",
   "version": "1.0.0",
   "license": "MIT",
   "repository": {
     "type": "git",
     "url": "https://github.com/zhengshengchen/nuxt-test"
   },
-  // "main": "",
+  "main": ".eslintrc.js",
   "dependencies": {
     "nuxt": "latest",
     "vux": "^2.8.0"
